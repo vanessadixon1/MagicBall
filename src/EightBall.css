@@ -1,0 +1,15 @@
+html {
+    box-sizing: border-box;
+    max-width: 100%;
+}
+
+.EightBall {
+    border-radius: 50%;
+    width: 6%;
+    padding: 10%;
+    margin:2% 37%;
+}
+
+p {
+    width:30%;
+}
